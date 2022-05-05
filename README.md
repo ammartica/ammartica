@@ -2,7 +2,7 @@
 <h1> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/> I'm Amisa
   </h1>
   </div>
-
+<br />
 <!-- Buttons with my contact info -->
 <div align="center">
 <div id="badges">
@@ -21,15 +21,18 @@
   
   </div>
 </div>
-
+<br />
 
 - 🌺 My name is Amisaday and my pronouns are she/her
 - 💖 My pronouns are she/her
 - <img src="https://user-images.githubusercontent.com/90794598/167032501-a346b66f-8f88-420e-8329-06114567544c.png" alt="Holberton Logo" width="15"> I’m currently working on Holberton School as a Student Tutor
+- 💬 Ask me about my dogs ✨🐶✨
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about my dogs ✨🐶✨
+-->
+<br />
 
 <!-- Logos of things I know -->
 
