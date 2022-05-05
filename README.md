@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ![Hand waving hello](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 <!--
 **ammartica/ammartica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
