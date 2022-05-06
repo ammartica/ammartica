@@ -23,7 +23,7 @@
 </div>
 <br />
 
-- 🌺 My name is Amisaday and my pronouns are she/her
+- 🌺 My name is Amisaday
 - 💖 My pronouns are she/her
 - <img src="https://user-images.githubusercontent.com/90794598/167032501-a346b66f-8f88-420e-8329-06114567544c.png" alt="Holberton Logo" width="15"> I’m currently working on Holberton School as a Student Tutor
 - 💬 Ask me about my dogs ✨🐶✨
