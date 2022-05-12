@@ -12,14 +12,9 @@
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=amisadaymartinez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <!-- Resume link (can't be up yet cause resume is not finished)
  <a href="https://docs.google.com/document/d/1g0fbpn5aEPvh5NZKio7zShvMHnR41QscwaL1n6TBl9c/export?format=pdf"><img src="https://img.shields.io/badge/RESUME-brightgreen?style=for-the-badge"></a></h3>
-  
-  <!-- Under construction: Resume PDF link
-  <a href="https://docs.google.com/document/d/1g0fbpn5aEPvh5NZKio7zShvMHnR41QscwaL1n6TBl9c/export?format=pdf">
-    <img src="https://img.shields.io/badge/brightgreen?style=for-the-badge&logo=twitter&logoColor=white" alt="Resume"/>
-  </a>
 -->
-  
   </div>
 </div>
 <br />
