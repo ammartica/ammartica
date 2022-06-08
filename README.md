@@ -12,7 +12,7 @@
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=amisadaymartinez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
- <a href="https://drive.google.com/file/d/1eAcmv6Bk-mO43N8fMNtCEu7xxUKjJiFZ/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-brightgreen?style=for-the-badge"></a></h3>
+ <a href="https://drive.google.com/file/d/1WLtfzFXpDklVeT-N-AUMxLa2TXsJSwhQ/export?format=pdf"><img src="https://img.shields.io/badge/RESUME-brightgreen?style=for-the-badge"></a></h3>
   </div>
 </div>
 <br />
