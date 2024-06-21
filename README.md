@@ -12,14 +12,13 @@
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=amisadaymartinez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
- <a href="https://drive.google.com/file/d/1WLtfzFXpDklVeT-N-AUMxLa2TXsJSwhQ/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-brightgreen?style=for-the-badge"></a></h3>
+ <a href="https://drive.google.com/file/d/1iZ13s-vBC_VnFNk3DXvyvQlRnKA81YYW/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-brightgreen?style=for-the-badge"></a></h3>
   </div>
 </div>
 <br />
 
 - 🌺 My name is Amisaday
 - 💖 My pronouns are she/her
-- <img src="https://user-images.githubusercontent.com/90794598/167032501-a346b66f-8f88-420e-8329-06114567544c.png" alt="Holberton Logo" width="15"> I’m currently working on Holberton School as a Student Tutor
 - 💬 Ask me about my dogs ✨🐶✨
 <!--
 - 🌱 I’m currently learning ...
